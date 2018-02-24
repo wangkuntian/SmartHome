@@ -1,0 +1,6 @@
+framework module Pods_SmartHome {
+  umbrella header "Pods-SmartHome-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,67 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AnimatedCollectionViewLayout (0.3.0)
+  - CHIPageControl/Jalapeno (0.1.3)
+  - CocoaAsyncSocket (7.4.3):
+    - CocoaAsyncSocket/All (= 7.4.3)
+  - CocoaAsyncSocket/All (7.4.3):
+    - CocoaAsyncSocket/GCD
+    - CocoaAsyncSocket/RunLoop
+  - CocoaAsyncSocket/GCD (7.4.3)
+  - CocoaAsyncSocket/RunLoop (7.4.3)
+  - JKVValue (1.3.3)
+  - MMDrawerController (0.5.7):
+    - MMDrawerController/Core (= 0.5.7)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.5.7)
+    - MMDrawerController/MMDrawerVisualStates (= 0.5.7)
+    - MMDrawerController/Subclass (= 0.5.7)
+  - MMDrawerController/Core (0.5.7)
+  - MMDrawerController/MMDrawerBarButtonItem (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.5.7):
+    - MMDrawerController/Core
+  - NVActivityIndicatorView (4.0.0):
+    - NVActivityIndicatorView/Presenter (= 4.0.0)
+  - NVActivityIndicatorView/Presenter (4.0.0)
+  - Pastel (0.3.0)
+  - RMQClient (0.10.0):
+    - CocoaAsyncSocket (~> 7.4.0)
+    - JKVValue
+  - SCLAlertView (0.7.0)
+  - SnapKit (4.0.0)
+  - SwiftyJSON (3.1.4)
+  - UICollectionViewLeftAlignedLayout (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AnimatedCollectionViewLayout
+  - CHIPageControl/Jalapeno
+  - MMDrawerController (~> 0.5.7)
+  - NVActivityIndicatorView
+  - Pastel
+  - RMQClient (~> 0.10.0)
+  - SCLAlertView
+  - SnapKit (~> 4.0.0)
+  - SwiftyJSON
+  - UICollectionViewLeftAlignedLayout
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AnimatedCollectionViewLayout: 504b992a4258eb39d2dd2b2b48e84b4b95860fd7
+  CHIPageControl: 2d3a0edacd7e3bc113bc88cbf187ba8f0b045548
+  CocoaAsyncSocket: a18c75dca4b08723628a0bacca6e94803d90be91
+  JKVValue: d7941071b1cf9ba35c194fd40bcf4c4d9b5462e9
+  MMDrawerController: 7a4cf8e25596bf2434e03ce50d22a8608ddee6a1
+  NVActivityIndicatorView: 54c9b93b6f25a4f467512680c0c90c09a1095cf2
+  Pastel: 738740c84f2b15bbcd96ebe99c4e6c2f5dd42262
+  RMQClient: e9bfea2d08f151b6b12df82ad115c78bd8de2106
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  UICollectionViewLeftAlignedLayout: 830bf6fa5bab9f9b464f62e3384f9d2e00b3c0f6
+
+PODFILE CHECKSUM: 8574c6ebdf7e50b2067a8c48a341479ce556b767
+
+COCOAPODS: 1.2.0
